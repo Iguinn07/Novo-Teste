@@ -1,0 +1,13 @@
+git status
+git commit -m "nome da nova alteração"
+git push
+git reflog
+git add .
+git reset --hard codigo
+git branch
+git switch nomedabranch para alternar entre branchs
+
+entrar na branch que sera modificada
+git merge nomedabranch que sera puchada os dados modificados
+
+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

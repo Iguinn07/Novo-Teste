@@ -1,0 +1,26 @@
+durandal: $214
+2 input analog aditional, 8 UART sendo 1 USB, 16 pwm ports
+https://holybro.com/search?type=product%2Carticle%2Cpage%2Ccollection&options[prefix]=last&q=durandal*
+
+CUAV-7-Nano Flight Controller:
+3 CAN e uma é independente, 5 UART 1 USB, monitoramento de bateria, 
+
+Pixracer pro: $349
+8 pwm, 2 CAN, 1 JTAG
+
+OpenPilot Revolution:
+sem portas CAN, 8 PWM
+
+TauLabs Sparky2:
+168Mhz 1Mb Flash, 6 PWM, 1 CAN
+
+PX6 mini e pix32 v6: $180
+7/4 UARTS, UART Flow controll 2/1 ports, sem ethernet suport, no SPI port, 14/16 PWM
+
+PX4: $141 256Kb/512Kb RAM, CPU 216MHz
+PX6: $157 1Mb RAM, 480MHz
+
+Modulo:
+PM07: 5V 3A, total 120A output MAX, da p colocar alguns servos e ESC direto nela
+PM06: ==== ==== ==== ==== ==== ====, talvez possa controlar um servo por ela
+PM02: 5.2V and 3A, 120A Max current

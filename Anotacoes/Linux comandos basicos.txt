@@ -1,0 +1,23 @@
+sudo - comando para executar como adm
+ls - lisa arquivos e pastas no diretorio
+pwd - mostra o caminho completo do dir atual
+cd - change directory - mudar direorio
+cd / - Leva você ao diretório raiz;]
+cd .. - Leva você até um nível de seleção;
+cd - - Leva você ao diretório anterior.
+sudo apt-get comando (install, update)
+
+mkdir - make directory
+rmdir - remove directory
+rm -r para remover recursivamente ou seja tudo que esta no dir
+
+touch - cria um arquivo dentro do dir em q esta
+cat nomedoarquivo - mostra oq esta escrito dentro do arquivo
+nano nomedoarquivo - para editar o arquivo internamente (estudar depois)
+
+!! completa com o comando iserido anteriormente exemplo
+apt update
+sudo !! >>> sudo apt update
+
+ctrl + c quebra o processo
+ my personal token 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
